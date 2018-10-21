@@ -1,0 +1,51 @@
+/*Mi estilo Css*/
+
+@charset "utf-8";
+
+/*Mi fuente Css*/
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+body {
+    background-color: #fff;
+}
+
+.page {
+    padding: 5px 10px 5px 10px;
+    background-color: #fff;
+    margin: 10px 10px 10px 10px;
+}
+
+footer {
+    background-color: #fff;
+    font-family: 'Pacifico', cursive;
+    color: #000;
+    text-align: center;
+    text-transform: center;
+}
+
+
+/*Para realizar pruebas durante la construcciòn*/
+
+.rojo {
+    background: red;
+}
+
+.verde {
+    background: green;
+}
+
+.azul {
+    background: blue;
+}
+
+.amarillo {
+    background: yellow;
+}
+
+.marron {
+    background: brown;
+}
+
+.rosado {
+    background: pink;
+}
