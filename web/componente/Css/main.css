@@ -4,7 +4,8 @@
 
 /*Mi fuente Css*/
 
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('fuentes.css');
+
 body {
     background-color: #fff;
 }
