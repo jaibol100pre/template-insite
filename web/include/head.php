@@ -18,7 +18,8 @@
 
 <script src="../componente/Js/main.js"></script>
 
-
+<link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/responsive.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/template.css">
 
     
   
