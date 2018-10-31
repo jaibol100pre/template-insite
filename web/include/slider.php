@@ -10,26 +10,26 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
         <div class="carousel-item active">
-         <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide_3.jpg" alt="Los Angeles">
+         <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide_3.jpg" alt="Inversiones Digitales J.J">
             <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+                <h3>Lorem, ipsum dolor </h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, tempora ad est placeat numquam temporibus deserunt laborum quaerat,</p>
             </div>
 
         </div>
         <div class="carousel-item">
-          <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide_2.jpg" alt="Chicago"></a> 
+          <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide_2.jpg" alt="Inversiones Digitales J.J"></a> 
             <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+                <h3>Lorem, ipsum dolor </h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, tempora ad est placeat numquam temporibus deserunt laborum quaerat,</p>
             </div>
 
         </div>
         <div class="carousel-item">
-          <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide1.jpg" alt="New York"></a> 
+          <a href="http://www.inversionesdigitalesjj.com.ve"><img src="../imagen/Banner-Slider/slide1.jpg" alt="Inversiones Digitales J.J"></a> 
               <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+                <h3>Lorem, ipsum dolor </h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, tempora ad est placeat numquam temporibus deserunt laborum quaerat,</p>
              </div>
         </div>
   </div>
